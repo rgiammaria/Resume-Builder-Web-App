@@ -2,6 +2,8 @@
   "name": "red-onion-food-delivery",
   "version": "0.1.0",
   "private": true,
+  "engines": 
+    
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
@@ -14,9 +16,9 @@
     "react-hook-form": "^6.0.8",
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.1"
-    },
-  "engines": {
     "node": "16.x"
+    },
+  
   {
   "scripts": {
     "start": "react-scripts start",
